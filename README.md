@@ -16,7 +16,7 @@
     <!-- navbar -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="background-color:lightgray">
         <div class="container">
-            <img src="img/logo.jpeg.jpg" height="30">
+            <img src="Tugas/img/logo.jpeg.jpg" height="30">
             <a class="navbar-brand font-weight-bold" href="#">BLLio</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
