@@ -88,7 +88,7 @@
             <!-- baris produk 1 -->
             <div class="row mx-auto">
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="img/produk/produk1.jpeg" class="card-img-top">
+                    <img src="Tugas/img/produk/produk1.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 1</h5>
                         <p class="card-text">Keterangan produk 1</p>
@@ -97,7 +97,7 @@
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="img/produk/produk2.jpeg" class="card-img-top">
+                    <img src="Tugas/img/produk/produk2.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 2</h5>
                         <p class="card-text">Keterangan produk 2</p>
@@ -106,7 +106,7 @@
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="img/produk/produk3.jpeg" class="card-img-top">
+                    <img src="Tugas/img/produk/produk3.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 3</h5>
                         <p class="card-text">Keterangan produk 3</p>
@@ -115,7 +115,7 @@
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="img/produk/produk4.jpeg" class="card-img-top">
+                    <img src="Tugas/img/produk/produk4.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 4</h5>
                         <p class="card-text">Keterangan produk 4</p>
@@ -127,7 +127,7 @@
             <!-- baris produk 2 -->
             <div class="row mx-auto mt-5">
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="img/produk/produk5.jpeg" class="card-img-top">
+                    <img src="Tugas/img/produk/produk5.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 5</h5>
                         <p class="card-text">Keterangan produk 5</p>
@@ -136,7 +136,7 @@
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="img/produk/produk6.jpeg" class="card-img-top">
+                    <img src="Tugas/img/produk/produk6.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 6</h5>
                         <p class="card-text">Keterangan produk 6</p>
@@ -145,7 +145,7 @@
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="img/produk/produk7.jpeg" class="card-img-top">
+                    <img src="Tugas/img/produk/produk7.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 7</h5>
                         <p class="card-text">Keterangan produk 7</p>
@@ -154,7 +154,7 @@
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="img/produk/produk8.jpeg" class="card-img-top">
+                    <img src="Tugas/img/produk/produk8.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 8</h5>
                         <p class="card-text">Keterangan produk 8</p>
@@ -176,7 +176,7 @@
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="img/produk/produk1.jpeg" width="200px">
+                                    <img src="Tugas/img/produk/produk1.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -223,7 +223,7 @@
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="img/produk/produk2.jpeg" width="200px">
+                                    <img src="Tugas/img/produk/produk2.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -270,7 +270,7 @@
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="img/produk/produk3.jpeg" width="200px">
+                                    <img src="Tugas/img/produk/produk3.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -317,7 +317,7 @@
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="img/produk/produk4.jpeg" width="200px">
+                                    <img src="Tugas/img/produk/produk4.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -364,7 +364,7 @@
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="img/produk/produk5.jpeg" width="200px">
+                                    <img src="Tugas/img/produk/produk5.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -411,7 +411,7 @@
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="img/produk/produk6.jpeg" width="200px">
+                                    <img src="Tugas/img/produk/produk6.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -458,7 +458,7 @@
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="img/produk/produk7.jpeg" width="200px">
+                                    <img src="Tugas/img/produk/produk7.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -505,7 +505,7 @@
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="img/produk/produk8.jpeg" width="200px">
+                                    <img src="Tugas/img/produk/produk8.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
