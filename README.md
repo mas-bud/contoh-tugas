@@ -57,7 +57,7 @@
 
     <!-- pembagian kolom -->
     <div class="row mt-5 no-gutters">
-        <div class="col-md-2 bg-light" style="background-color: bisque;">
+        <div class="col-md-1 bg-light" style="background-color: bisque;">
             <div class="list-group list-group-flush p-1 pt-3">
                 <a href="#" class="list-group-item list-group-item-action active font-weight-bold"> <i class="fas fa-list mr-2"></i>KATEGORI PRODUK</a>
                 <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Peralatan Elektronik</a>
@@ -67,7 +67,7 @@
                 <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Alat Kesehatan</a>
                 </div>
         </div>
-        <div class="col-md-10">
+        <div class="col-md-11">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
