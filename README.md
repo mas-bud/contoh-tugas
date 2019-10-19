@@ -33,7 +33,7 @@
                         <a class="nav-link" href="#">Reseller <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.instagram.com/mas__bud/">Hubungi kami <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="https://www.instagram.com/mas__bud/">Kontak <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Bantuan <span class="sr-only">(current)</span></a>
@@ -61,11 +61,11 @@
             <div class="list-group list-group-flush p-1 pt-3">
                 <a href="#" class="list-group-item list-group-item-action active font-weight-bold"> <i class="fas fa-list mr-2"></i>KATEGORI PRODUK</a>
                 <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Peralatan Elektronik</a>
-                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Sparepart</a>
-                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Fashion Pria</a>
-                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Fashion Wanita</a>
-                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Peralatan Rumah Tangga</a>
-            </div>
+                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Buku</a>
+                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> IT/Komputer</a>
+                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Alat Peraga Pendidikan</a>
+                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Alat Kesehatan</a>
+                </div>
         </div>
         <div class="col-md-10">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
