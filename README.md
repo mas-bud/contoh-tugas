@@ -9,6 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="style/style.css">
+    <link rel="stylesheet" type="text/css" href="produk/produk.html">
+    <link rel="stylesheet" type="text/css" href="css/all.min.css">
     <title>BLLio</title>
 </head>
 
@@ -16,7 +18,7 @@
     <!-- navbar -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="background-color:lightgray">
         <div class="container">
-            <img src="Tugas/img/logo.jpeg.jpg" height="30">
+            <h3><i class="fas fa-shopping-bag text-dark mr-2"></i></h3>
             <a class="navbar-brand font-weight-bold" href="#">BLLio</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -31,7 +33,7 @@
                         <a class="nav-link" href="#">Reseller <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Hubungi kami <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="https://www.instagram.com/mas__bud/">Hubungi kami <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Bantuan <span class="sr-only">(current)</span></a>
@@ -41,6 +43,13 @@
                     <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
                     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
                 </form>
+                <div class="icon mt-2">
+                    <h5>
+                        <i class="fas fa-shopping-cart text-dark ml-3 mr-3"></i>
+                        <i class="fas fa-envelope text-dark mr-3"></i>
+                        <i class="fas fa-bell text-dark mr-3"></i>
+                    </h5>
+                </div>
             </div>
         </div>
     </nav>
@@ -50,28 +59,28 @@
     <div class="row mt-5 no-gutters">
         <div class="col-md-2 bg-light" style="background-color: bisque;">
             <div class="list-group list-group-flush p-1 pt-3">
-                <a href="#" class="list-group-item list-group-item-action active font-weight-bold">KATEGORI PRODUK</a>
-                <a href="#" class="list-group-item list-group-item-action">Peralatan Elektronik</a>
-                <a href="#" class="list-group-item list-group-item-action">Sparepart</a>
-                <a href="#" class="list-group-item list-group-item-action">Fashion Pria</a>
-                <a href="#" class="list-group-item list-group-item-action">Fashion Wanita</a>
-                <a href="#" class="list-group-item list-group-item-action">Peralatan Rumah Tangga</a>
+                <a href="#" class="list-group-item list-group-item-action active font-weight-bold"> <i class="fas fa-list mr-2"></i>KATEGORI PRODUK</a>
+                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Peralatan Elektronik</a>
+                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Sparepart</a>
+                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Fashion Pria</a>
+                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Fashion Wanita</a>
+                <a href="#" class="list-group-item list-group-item-action"><i class="fas fa-angle-right"></i> Peralatan Rumah Tangga</a>
             </div>
         </div>
         <div class="col-md-10">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="Tugas/img/carousel/carousel1.jpg" class="d-block w-100">
+                        <img src="img/carousel/carousel1.jpg" class="d-block w-100">
                     </div>
                     <div class="carousel-item">
-                        <img src="Tugas/img/carousel/carousel2.jpg" class="d-block w-100">
+                        <img src="img/carousel/carousel2.jpg" class="d-block w-100">
                     </div>
                     <div class="carousel-item">
-                        <img src="Tugas/img/carousel/carousel3.jpg" class="d-block w-100">
+                        <img src="img/carousel/carousel3.jpg" class="d-block w-100">
                     </div>
                     <div class="carousel-item">
-                        <img src="Tugas/img/carousel/carousel4.jpg" class="d-block w-100">
+                        <img src="img/carousel/carousel4.jpg" class="d-block w-100">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -88,78 +97,118 @@
             <!-- baris produk 1 -->
             <div class="row mx-auto">
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="Tugas/img/produk/produk1.jpeg" class="card-img-top">
+                    <img src="img/produk/produk1.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 1</h5>
                         <p class="card-text">Keterangan produk 1</p>
-                        <a href="#" class="btn btn-primary" data-target="#produk1" data-toggle="modal">Detail</a>
-                        <a href="#" class="btn btn-primary">Beli</a>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i><br>
+                        <a href="#" class="btn btn-primary mt-1" data-target="#produk1" data-toggle="modal">Detail</a>
+                        <a href="#" class="btn btn-success mt-1">Beli</a>
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="Tugas/img/produk/produk2.jpeg" class="card-img-top">
+                    <img src="img/produk/produk2.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 2</h5>
                         <p class="card-text">Keterangan produk 2</p>
-                        <a href="#" class="btn btn-primary" data-target="#produk2" data-toggle="modal">Detail</a>
-                        <a href="#" class="btn btn-primary">Beli</a>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i><br>
+                        <a href="#" class="btn btn-primary mt-1" data-target="#produk2" data-toggle="modal">Detail</a>
+                        <a href="#" class="btn btn-success mt-1">Beli</a>
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="Tugas/img/produk/produk3.jpeg" class="card-img-top">
+                    <img src="img/produk/produk3.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 3</h5>
                         <p class="card-text">Keterangan produk 3</p>
-                        <a href="#" class="btn btn-primary" data-target="#produk3" data-toggle="modal">Detail</a>
-                        <a href="#" class="btn btn-primary">Beli</a>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i><br>
+                        <a href="#" class="btn btn-primary mt-1" data-target="#produk3" data-toggle="modal">Detail</a>
+                        <a href="#" class="btn btn-success mt-1">Beli</a>
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="Tugas/img/produk/produk4.jpeg" class="card-img-top">
+                    <img src="img/produk/produk4.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 4</h5>
                         <p class="card-text">Keterangan produk 4</p>
-                        <a href="#" class="btn btn-primary" data-target="#produk4" data-toggle="modal">Detail</a>
-                        <a href="#" class="btn btn-primary">Beli</a>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i><br>
+                        <a href="#" class="btn btn-primary mt-1" data-target="#produk4" data-toggle="modal">Detail</a>
+                        <a href="#" class="btn btn-success mt-1">Beli</a>
                     </div>
                 </div>
             </div>
             <!-- baris produk 2 -->
             <div class="row mx-auto mt-5">
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="Tugas/img/produk/produk5.jpeg" class="card-img-top">
+                    <img src="img/produk/produk5.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 5</h5>
                         <p class="card-text">Keterangan produk 5</p>
-                        <a href="#" class="btn btn-primary" data-target="#produk5" data-toggle="modal">Detail</a>
-                        <a href="#" class="btn btn-primary">Beli</a>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i><br>
+                        <a href="#" class="btn btn-primary mt-1" data-target="#produk5" data-toggle="modal">Detail</a>
+                        <a href="#" class="btn btn-success mt-1">Beli</a>
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="Tugas/img/produk/produk6.jpeg" class="card-img-top">
+                    <img src="img/produk/produk6.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 6</h5>
                         <p class="card-text">Keterangan produk 6</p>
-                        <a href="#" class="btn btn-primary" data-target="#produk6" data-toggle="modal">Detail</a>
-                        <a href="#" class="btn btn-primary">Beli</a>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i><br>
+                        <a href="#" class="btn btn-primary mt-1" data-target="#produk6" data-toggle="modal">Detail</a>
+                        <a href="#" class="btn btn-success mt-1">Beli</a>
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="Tugas/img/produk/produk7.jpeg" class="card-img-top">
+                    <img src="img/produk/produk7.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 7</h5>
                         <p class="card-text">Keterangan produk 7</p>
-                        <a href="#" class="btn btn-primary" data-target="#produk7" data-toggle="modal">Detail</a>
-                        <a href="#" class="btn btn-primary">Beli</a>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i><br>
+                        <a href="#" class="btn btn-primary mt-1" data-target="#produk7" data-toggle="modal">Detail</a>
+                        <a href="#" class="btn btn-success mt-1">Beli</a>
                     </div>
                 </div>
                 <div class="card mr-2 ml-2" style="width: 14rem;">
-                    <img src="Tugas/img/produk/produk8.jpeg" class="card-img-top">
+                    <img src="img/produk/produk8.jpeg" class="card-img-top">
                     <div class="card-body bg-light">
                         <h5 class="card-title">produk 8</h5>
                         <p class="card-text">Keterangan produk 8</p>
-                        <a href="#" class="btn btn-primary" data-target="#produk8" data-toggle="modal">Detail</a>
-                        <a href="#" class="btn btn-primary">Beli</a>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i><br>
+                        <a href="#" class="btn btn-primary mt-1" data-target="#produk8" data-toggle="modal">Detail</a>
+                        <a href="#" class="btn btn-success mt-1">Beli</a>
                     </div>
                 </div>
             </div>
@@ -170,13 +219,13 @@
                         <div class="modal-header">
                             <h5 class="modal-title" id="exampleModalScrollableTitle">Detail Produk</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
+        <span aria-hidden="true">&times;</span>
+        </button>
                         </div>
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="Tugas/img/produk/produk1.jpeg" width="200px">
+                                    <img src="img/produk/produk1.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -217,13 +266,13 @@
                         <div class="modal-header">
                             <h5 class="modal-title" id="exampleModalScrollableTitle">Detail Produk</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
+        <span aria-hidden="true">&times;</span>
+        </button>
                         </div>
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="Tugas/img/produk/produk2.jpeg" width="200px">
+                                    <img src="img/produk/produk2.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -264,13 +313,13 @@
                         <div class="modal-header">
                             <h5 class="modal-title" id="exampleModalScrollableTitle">Detail Produk</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
+        <span aria-hidden="true">&times;</span>
+        </button>
                         </div>
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="Tugas/img/produk/produk3.jpeg" width="200px">
+                                    <img src="img/produk/produk3.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -311,13 +360,13 @@
                         <div class="modal-header">
                             <h5 class="modal-title" id="exampleModalScrollableTitle">Detail Produk</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
+        <span aria-hidden="true">&times;</span>
+        </button>
                         </div>
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="Tugas/img/produk/produk4.jpeg" width="200px">
+                                    <img src="img/produk/produk4.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -358,13 +407,13 @@
                         <div class="modal-header">
                             <h5 class="modal-title" id="exampleModalScrollableTitle">Detail Produk</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
+        <span aria-hidden="true">&times;</span>
+        </button>
                         </div>
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="Tugas/img/produk/produk5.jpeg" width="200px">
+                                    <img src="img/produk/produk5.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -405,13 +454,13 @@
                         <div class="modal-header">
                             <h5 class="modal-title" id="exampleModalScrollableTitle">Detail Produk</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
+        <span aria-hidden="true">&times;</span>
+        </button>
                         </div>
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="Tugas/img/produk/produk6.jpeg" width="200px">
+                                    <img src="img/produk/produk6.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -452,13 +501,13 @@
                         <div class="modal-header">
                             <h5 class="modal-title" id="exampleModalScrollableTitle">Detail Produk</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
+        <span aria-hidden="true">&times;</span>
+        </button>
                         </div>
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="Tugas/img/produk/produk7.jpeg" width="200px">
+                                    <img src="img/produk/produk7.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -499,13 +548,13 @@
                         <div class="modal-header">
                             <h5 class="modal-title" id="exampleModalScrollableTitle">Detail Produk</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
+        <span aria-hidden="true">&times;</span>
+        </button>
                         </div>
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-md-6 ">
-                                    <img src="Tugas/img/produk/produk8.jpeg" width="200px">
+                                    <img src="img/produk/produk8.jpeg" width="200px">
                                 </div>
                                 <div class="col-md-6 ">
                                     <table class="table table-borderless">
@@ -546,9 +595,12 @@
 
     <!-- footer -->
     <footer class="bg-dark text-white">
-        <h5 class="text-center font-weight-bold m-4">Copyright 2019 | pemrograman web</h5>
+        <div class="copyright text-center font-weight-bold bg-dark text-white p-2 mt-3">
+            <p class="mt-3"><i class="far fa-copyright"></i> copyright 2019 | Pemrograman Web</p>
+        </div>
     </footer>
     <!-- akhir footer -->
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
