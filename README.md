@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="style/style.css">
     <link rel="stylesheet" type="text/css" href="produk/produk.html">
-    <link rel="stylesheet" type="text/css" href="Tugas/css/all.min.css">
+    <script src="https://kit.fontawesome.com/85a2f234d7.js" crossorigin="anonymous"></script>
     <title>BLLio</title>
 </head>
 
