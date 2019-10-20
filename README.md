@@ -45,9 +45,9 @@
                 </form>
                 <div class="icon mt-2">
                     <h5>
-                        <i class="fas fa-shopping-cart text-dark ml-3 mr-3"></i>
-                        <i class="fas fa-envelope text-dark mr-3"></i>
-                        <i class="fas fa-bell text-dark mr-3"></i>
+                        <i class="fas fa-shopping-cart text-dark ml-3 mr-3" data-toggle="tootip" title="Keranjang"></i>
+                        <i class="fas fa-envelope text-dark mr-3" data-toggle="tootip" title="Kotak Masuk"></i>
+                        <i class="fas fa-bell text-dark mr-3" data-toggle="tootip" title="Notifikasi"></i>
                     </h5>
                 </div>
             </div>
